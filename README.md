@@ -6,7 +6,7 @@ The dataset for the stochastic MMS problem is an extension of the dataset for th
 
 The repository is organized in three folders:
 
-* main_analysis (Datasets of main analyses)
+* main_analysis (Dataset for main analyses)
 
 This folder contains ten subfolders Unique_Mut_0 to Unique_Mut_9. Each subfolder contains 216 files, one for each layout but with different a demand plan. Note that we generated ten demand plans for each layout.
 
@@ -24,7 +24,7 @@ The syntax of a file describing a problem instance is as follows.
 Line: content
 
 1: number of models M <br>
-2: demand plan for model m = 1,...,M <br>
+2: demand for model m = 1,...,M <br>
 3: number of stations K <br>
 4: lengths of stations k=1,...,K <br>
 5: cycle time <br>
