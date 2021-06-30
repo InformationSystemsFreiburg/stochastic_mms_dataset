@@ -1,3 +1,5 @@
+# Dataset with Stochastic Mixed Model Sequencing Problems
+
 This repository contains the datasets for our study "Stochastic mixed model sequencing with multiple stations using reinforcement learning and probability quantiles."
 
 The dataset for the stochastic MMS problem is an extension of the dataset for the deterministic MMS problem by Boysen N, Kiel M, Scholl A (2011) "Sequencing mixed-model assembly lines to minimise the number of work overload situations," International Journal of Production Research 49, 4735-4760.
